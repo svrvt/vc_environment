@@ -22,5 +22,6 @@
 !/.local/etc/jupyter/nbconfig/notebook.d/voila.json
 !/.local/share/applications/jupyterlab.desktop
 !/.local/share/applications/jupyter-notebook.desktop
+!/.luarocks/config-5.1.lua
 !/.Renviron
 !/.Rprofile
