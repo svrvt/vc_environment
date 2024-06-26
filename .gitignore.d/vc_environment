@@ -1,4 +1,6 @@
 *
+!/bin/guix/guix-activate-profiles.sh
+!/bin/guix/guix-update-profiles.sh
 !/.config/conda/condarc
 !/.config/docker/daemon.json
 !/.config/guix/channels.scm
