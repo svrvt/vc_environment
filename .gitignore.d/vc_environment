@@ -10,6 +10,9 @@
 !/.config/docker/daemon.json
 !/.config/guix
 !/.config/guix/channels.scm
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/vc_environment
 !/.config/npm
 !/.config/npm/npmrc
 !/.config/systemd
