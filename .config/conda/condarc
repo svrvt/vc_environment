@@ -290,7 +290,7 @@ channels:
 #   previous versions of conda, this parameter was configured as either
 #   True or False. True is now an alias to 'flexible'.
 # 
-channel_priority: strict
+channel_priority: flexible
 
 # # create_default_packages (sequence: primitive)
 # #   env var string delimiter: ','
@@ -340,9 +340,9 @@ channel_priority: strict
 # #   into a list of specs to add and/or remove from a given environment,
 # #   based on their dependencies and specified constraints.
 # # 
-solver: libmamba
+# solver: libmamba
 
-sat_solver: pycryptosat
+# sat_solver: pycryptosat
 
 # ######################################################
 # ##  Package Linking and Install-time Configuration  ##
