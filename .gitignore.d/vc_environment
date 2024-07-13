@@ -17,6 +17,8 @@
 !/.config/mr/available.d/vc_environment
 !/.config/npm
 !/.config/npm/npmrc
+!/.config/python
+!/.config/python/pythonrc
 !/.config/R
 !/.config/R/Rprofile
 !/.config/systemd
