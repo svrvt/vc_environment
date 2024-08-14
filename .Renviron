@@ -1,6 +1,9 @@
 
-R_LIBS_USER=${R_LIBS_USER-'$XDG_DATA_HOME/R/x86_64-pc-linux-gnu-library'}
-R_LIBS_SITE=${R_LIBS_SITE-'/usr/local/lib/R/site-library:/usr/lib/R/site-library:/usr/lib/R/library'}
+#R_LIBS_USER=${R_LIBS_USER-'$XDG_DATA_HOME/R/x86_64-pc-linux-gnu-library'}
+#R_LIBS_SITE=${R_LIBS_SITE-'/usr/local/lib/R/site-library:/usr/lib/R/site-library:/usr/lib/R/library'}
+
+R_LIBS_USER=${XDG_DATA_HOME}/R/x86_64-pc-linux-gnu-library/4.3
+R_LIBS_SITE=/usr/local/lib/R/site-library:/usr/lib/R/site-library:/usr/lib/R/library
 
 
 # http_proxy="http://user:passwd@proxy.dom.com:port"
