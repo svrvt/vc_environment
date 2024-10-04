@@ -14,7 +14,8 @@
 !/.config/luarocks/config-5.1.lua
 !/.config/mr
 !/.config/mr/available.d
-!/.config/mr/available.d/vc_environment
+!/.config/mr/available.d/vc
+!/.config/mr/available.d/vc/vc_environment
 !/.config/npm
 !/.config/npm/npmrc
 !/.config/python
