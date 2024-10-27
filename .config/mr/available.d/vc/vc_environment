@@ -1,4 +1,4 @@
 [$HOME/.config/vcsh/repo.d/vc_environment.git]
 checkout = vcsh clone https://github.com/svrvt/vc_environment.git
 
-# vi: ft=ini syntax=sh
+# vi: ft=ini syntax=bash
